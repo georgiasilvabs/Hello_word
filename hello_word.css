@@ -44,12 +44,15 @@ body {
   background-color: #228B22;
   z-index: -1;
   transition: 0.7s ease;
+  
 }
 
 .btn1:before {
   width: 0;
   height: 100%;
+  
 }
 .btn1:hover:before {
   width: 100%;
 }
+
